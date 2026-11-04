@@ -1,8 +1,10 @@
 <div align="center">
 
-# Hi, I'm Suthan K 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Suthan%20K&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=20" width="100%" alt="Suthan K - Software Engineer | Full Stack Developer" />
 
-### Software Engineer | Full Stack Developer
+<a href="https://suthan.vercel.app">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=720&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript+%7C+Python;Building+scalable+web+apps+and+APIs;Open+to+new+opportunities" alt="Typing animation" />
+</a>
 
 I build scalable, client-facing web applications and the APIs behind them.
 2+ years of experience across React, Next.js, Node.js, TypeScript and Python.
@@ -113,11 +115,34 @@ Digital healthcare platform for medicine purchases, prescriptions and secure hea
 
 ## 📂 Open Source & Practice Projects
 
-| Project | Description | Stack |
+### 🌐 Live Projects
+
+| Project | Description | Language | Demo |
+|---|---|---|---|
+| [my-portfolio](https://github.com/suthanks2000/my-portfolio) | Source code of my interactive 3D portfolio | JavaScript | [suthan.vercel.app](https://suthan.vercel.app) |
+| [smsconstruction](https://github.com/suthanks2000/smsconstruction) | Construction web application | TypeScript | [Live](https://smsconstruction.vercel.app) |
+| [SMS-Construction](https://github.com/suthanks2000/SMS-Construction) | Construction web application | TypeScript | [Live](https://sms-construction-five.vercel.app) |
+| [json-flow-viewer](https://github.com/suthanks2000/json-flow-viewer) | JSON flow viewer web app | TypeScript | [Live](https://json-flow-viewer-one.vercel.app) |
+| [taskmanagemet-app](https://github.com/suthanks2000/taskmanagemet-app) | Task management app | JavaScript | [Live](https://taskmanagemet-app.vercel.app) |
+
+### 🧪 Practice & Learning Projects
+
+| Project | Description | Language |
 |---|---|---|
-| [Resume-Builder](https://github.com/suthanks2000/Resume-Builder) | Build a resume from a simple form | HTML, CSS |
-| [Easy-Finance](https://github.com/suthanks2000/Easy-Finance) | Finance tracking interface | HTML, CSS |
+| [Authentication_System](https://github.com/suthanks2000/Authentication_System) | Authentication system practice project | Python |
+| [code-quest-bug-hunter](https://github.com/suthanks2000/code-quest-bug-hunter) | Code Quest: Bug Hunter | TypeScript |
+| [Resume-Builder](https://github.com/suthanks2000/Resume-Builder) | Resume builder web page | CSS |
+| [Easy-Finance](https://github.com/suthanks2000/Easy-Finance) | Finance web interface | CSS |
+| [My-resume-](https://github.com/suthanks2000/My-resume-) | Resume project | Python |
 | [agaram_academy](https://github.com/suthanks2000/agaram_academy) | Learning project | Python |
+| [praticefille](https://github.com/suthanks2000/praticefille) | HTML practice files | HTML |
+
+### 📚 Forked for Learning
+
+| Project | Original | Description |
+|---|---|---|
+| [modern-javascript-in-tamil](https://github.com/suthanks2000/modern-javascript-in-tamil) | [anburocky3/modern-javascript-in-tamil](https://github.com/anburocky3/modern-javascript-in-tamil) | Learn modern JavaScript in Tamil |
+| [javascript-interview-questions](https://github.com/suthanks2000/javascript-interview-questions) | [anburocky3/javascript-interview-questions](https://github.com/anburocky3/javascript-interview-questions) | Commonly asked JavaScript interview questions with solutions |
 
 ---
 
@@ -125,8 +150,24 @@ Digital healthcare platform for medicine purchases, prescriptions and secure hea
 
 <div align="center">
 
-![Suthan's GitHub stats](https://github-readme-stats.vercel.app/api?username=suthanks2000&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suthanks2000&layout=compact&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=suthanks2000&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suthanks2000&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=suthanks2000&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=suthanks2000&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution activity graph" />
+
+</div>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suthanks2000/suthanks2000/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suthanks2000/suthanks2000/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/suthanks2000/suthanks2000/output/github-snake.svg" />
+</picture>
 
 </div>
 
@@ -140,6 +181,6 @@ I'm open to **Full Stack, Backend, Frontend, React and Node.js** roles (on-site,
 
 <div align="center">
 
-⭐ *Thanks for stopping by!*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling&text=Thanks%20for%20stopping%20by!&fontSize=24&fontColor=ffffff&fontAlignY=70" width="100%" alt="Footer" />
 
 </div>
